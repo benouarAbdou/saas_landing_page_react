@@ -6,4 +6,8 @@
 
 * {
   scroll-behavior: smooth;
+  background-color: #2b2b2b;
+}
+#root {
+  padding: 16px;
 }

@@ -1,11 +1,5 @@
 import {card,coin,people1,purse} from "../assets";
 
-
-
-
-
-  
-
   export const features = [
     {
       id: "feature-1",

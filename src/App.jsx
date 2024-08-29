@@ -1,10 +1,11 @@
 import "./App.css";
 
+import Navbar from "./components/Navbar";
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline text-primary font-poppins">
-      Hello world!
-    </h1>
+    <div className="w-full overflow-hidden">
+      <Navbar />
+    </div>
   );
 }
 
