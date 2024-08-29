@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Content from "./components/Content";
 import Features from "./components/Features";
+import Testimonials from "./components/Testimonials";
 function App() {
   return (
     <div className="w-full overflow-hidden">
@@ -10,6 +11,7 @@ function App() {
       <Hero />
       <Content />
       <Features />
+      <Testimonials />
     </div>
   );
 }
