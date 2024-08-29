@@ -4,7 +4,7 @@ import MainButton from "./MainButton";
 import { hero } from "../assets";
 const Hero = () => {
   return (
-    <div
+    <section
       className={`flex md:flex-row flex-col justify-between items-center gap-4  ${styles.paddingX}  ${styles.paddingY} `}
     >
       <div className="flex flex-1 flex-col justify-start md:items-start items-center">
@@ -24,7 +24,7 @@ const Hero = () => {
       <div className="flex flex-1  ">
         <img src={hero} alt="" className="w-full h-full" />
       </div>
-    </div>
+    </section>
   );
 };
 
