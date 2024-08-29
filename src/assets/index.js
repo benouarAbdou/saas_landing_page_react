@@ -1,4 +1,6 @@
 import hero from "./hero.svg";
+import herogif from "./hero.gif";
+import contactgif from "./contact.gif";
 import card from "./card.png";
 import coin from "./coin.png";
 import contact from "./contact.png";
@@ -9,5 +11,5 @@ import purse from "./purse.png";
 
 export {
     hero,
-    card,coin,contact,content,people01,people02,purse,
+    card,coin,contact,content,people01,people02,purse,herogif,contactgif,
 };
