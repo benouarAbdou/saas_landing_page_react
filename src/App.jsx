@@ -5,6 +5,7 @@ import Content from "./components/Content";
 import Features from "./components/Features";
 import Testimonials from "./components/Testimonials";
 import CTA from "./components/CTA";
+import Footer from "./components/Footer";
 function App() {
   return (
     <div className="w-full overflow-hidden">
@@ -14,6 +15,7 @@ function App() {
       <Features />
       <Testimonials />
       <CTA />
+      <Footer />
     </div>
   );
 }

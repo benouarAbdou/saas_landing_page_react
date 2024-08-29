@@ -46,5 +46,23 @@ import {card,coin,people01,people02,purse} from "../assets";
     },
   ];
    
+export const footerlinks = [
+  {
+    id:"f1",
+    content: "© Wallet 2024",
+  },
+  {
+    id:"f2",
+    content: "Privacy policy",
+  },
+  {
+    id:"f3",
+    content: "Cookies policy",
+  },
+  {
+    id:"f4",
+    content: "Terms of use",
+  },
+]
 
 
