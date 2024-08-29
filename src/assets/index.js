@@ -1,4 +1,4 @@
-import hero from "./hero.png";
+import hero from "./hero.svg";
 import card from "./card.png";
 import coin from "./coin.png";
 import contact from "./contact.png";
@@ -9,4 +9,4 @@ import purse from "./purse.png";
 export {
     hero,
     card,coin,contact,content,people1,purse,
-}
+};
